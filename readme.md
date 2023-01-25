@@ -12,6 +12,6 @@ This seems like a promising way to reduce the bundle size even further once Rakk
 npx degit rakkasjs/preact-on-client my-app
 ```
 
-- or -
+\- or -
 
 [![Try on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/rakkasjs/preact-on-client)
